@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/epos_2wheels.dir/main.cpp.o CMakeFiles/epos_2wheels.dir/epos_single/epos_base.cpp.o CMakeFiles/epos_2wheels.dir/two_wheels.cpp.o  -o epos_2wheels -lEposCmd -lyaml-cpp -lpthread 
