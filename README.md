@@ -28,7 +28,7 @@ Example : `$ ./epos_2wheels --yaml_file ../yaml/cfg_EPOS.yaml --wheel_spd_path .
 
 - After run this, `EPOS0.txt` is written "100" and MAXON Motor will spin 100 rpm.
 
-- Please Edit `EPOS0.txt` and `EPOS1.txt` to control motors. I have [ROS1 package](https://github.com/Ar-Ray-code/twist_2wheel_pub) to edit these automatically.
+- Please Edit `EPOS0.txt` and `EPOS1.txt` to control motors. [ROS1 package](https://github.com/Ar-Ray-code/twist_2wheel_pub) can edit these automatically.
 
 ## Caution (Bug)
 
